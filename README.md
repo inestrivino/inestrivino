@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Inés Triviño
-- 👀 I’m interested in crafts like crochet and cross stitch, and programming of course!
+- 👋 Hi, I’m Inés Triviño, a spanish software engineering student. She/her. 
+- 👀 I’m interested in crafts like crochet and cross stitch, and of course, programming!
 - 🌱 I’m currently learning software engineering in college! More specifically I am learning basic computation, C++ and LOTS of maths 
 - 💞️ I’m looking to collaborate on C++ and HTML/CSS/JS open source projects!

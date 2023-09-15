@@ -7,4 +7,4 @@ I'm a software engineering student at UCM (Universidad Complutense de Madrid) wh
 - Visual Studio Code
 - I know my way around both Ubuntu and Windows
 ## Education
-:herb: **First Year of Software Engineering at the UCM (Madrid, Spain)** 
+:herb: **On my second year of Software Engineering at the UCM (Madrid, Spain)** 

@@ -1,4 +1,4 @@
-<h1 align="center">Nice to meet you, I'm Inés! 👩🏽‍💻</h1>
+<h1 align="center">Hello World, I'm Inés! 👩🏽‍💻</h1>
 Software Engineering Student. Fascinated by software development and design, especially mobile apps, webs and, to a lesser extent, games. Also learning about the potential uses of AI on the software dev field.
 
 <hr></hr>

@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello world, I'm Inés 🌠
 
-<!--
-**inestrivino/inestrivino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Bachelor's student at Universidad Complutense de Madrid, majoring in Software Engineering (Spain)
+- Currently doing an Erasmus year at Université Grenoble Alpes (France)
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages:
+  - C++
+  - C
+  - Java
+  - Assembly RISC V
+  - HTML/CSS/JS
+
+- IDEs
+  - VS Code
+  - Eclipse
+
+- Experience with Agile methodology
+- Experience with CI/CD and git
+
+## 2025 goals:
+
+- [ ] Clean up my GitHub, GitLab and LinkedIn
+- [ ] Create a personal website / portfolio
+- [ ] Create a blog
+- [ ] Contribute to 3 open-source projects in a meaningful way (0/3)
+- [ ] Create 4 projects of my own (0/4)

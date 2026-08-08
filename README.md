@@ -1,5 +1,6 @@
 # Inés Triviño
 
+[![Website](https://img.shields.io/badge/Website-94E2D5?style=flat&logo=globe&logoColor=black)](https://inestrivino.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B0CEFF?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ines-trivino/)
 
 <div style="background-color: #CBA6F7; width: 100%; height: 5px; border-radius: 10px"></div><br>

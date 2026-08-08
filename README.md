@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-94E2D5?style=flat&logo=globe&logoColor=black)](https://inestrivino.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B0CEFF?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ines-trivino/)
 
-<div style="background-color: #CBA6F7; width: 100%; height: 5px; border-radius: 10px"></div><br>
+![](data:image/svg+xml;utf8,<svg%20xmlns="http://www.w3.org/2000/svg"%20width="100%"%20height="5"><rect%20width="100%"%20height="100%"%20rx="2.5"%20fill="%23CBA6F7"/></svg>)
 
 - Bachelor's Degree in **Software Engineering** (UCM) 
 - Student of the **Digital Humanities** Master's Degree (UCM)
@@ -11,9 +11,7 @@
 
 Spanish (Native) | English (C2) | French (B2)
 
-### Website: [**inestrivino.github.io**](https://inestrivino.github.io)
-
-<div style="background-color: #CBA6F7; width: 100%; height: 5px; border-radius: 10px"></div>
+![](data:image/svg+xml;utf8,<svg%20xmlns="http://www.w3.org/2000/svg"%20width="100%"%20height="5"><rect%20width="100%"%20height="100%"%20rx="2.5"%20fill="%23CBA6F7"/></svg>)
 
 ### Main stack
 The main technologies I know and use regularly.

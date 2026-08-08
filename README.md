@@ -1,7 +1,7 @@
 # Inés Triviño
 
-[![Website](https://img.shields.io/badge/Website-94E2D5?style=flat&logo=globe&logoColor=black)](https://inestrivino.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B0CEFF?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ines-trivino/)
+[![Website](https://img.shields.io/badge/Website-94E2D5?style=for-the-badge&logo=globe&logoColor=black)](https://inestrivino.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B0CEFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ines-trivino/)
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:89B4FA,50:CBA6F7,100:F5C2E7&height=6&section=header)
 

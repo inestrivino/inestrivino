@@ -1,47 +1,61 @@
 # Inés Triviño
 
-B.S. in Software Engineering <br>
-M.S. in Digital Humanities student
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B0CEFF?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ines-trivino/)
+
+<div style="background-color: #CBA6F7; width: 100%; height: 5px; border-radius: 10px"></div><br>
+
+- Bachelor's Degree in **Software Engineering** (UCM) 
+- Student of the **Digital Humanities** Master's Degree (UCM)
+- Currently **looking for internship opportunities in software and cultural projects**.
 
 Spanish (Native) | English (C2) | French (B2)
 
-[**inestrivino.github.io**](https://inestrivino.github.io)
+### Website: [**inestrivino.github.io**](https://inestrivino.github.io)
 
-### Languages & frameworks
+<div style="background-color: #CBA6F7; width: 100%; height: 5px; border-radius: 10px"></div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+### Main stack
+The main technologies I know and use regularly.
+
+![HTML5](https://img.shields.io/badge/HTML5-B0CEFF?style=flat&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-89DCEB?style=flat&logo=css&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-94E2D5?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-B4BEFE?style=flat&logo=typescript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-CBA6F7?style=flat&logo=node.js&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-F5C2E7?style=flat&logo=express&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-B0CEFF?style=flat&logo=bootstrap&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-89DCEB?style=flat&logo=tailwindcss&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-94E2D5?style=flat&logo=astro&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-B4BEFE?style=flat&logo=spring&logoColor=black)
+![React](https://img.shields.io/badge/React-CBA6F7?style=flat&logo=react&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-F5C2E7?style=flat&logo=jquery&logoColor=black)
+![Python](https://img.shields.io/badge/Python-B0CEFF?style=flat&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-89DCEB?style=flat&logo=openjdk&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-B0CEFF?style=flat&logo=mysql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-89DCEB?style=flat&logo=mongodb&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-94E2D5?style=flat&logo=sqlite&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-B4BEFE?style=flat&logo=redis&logoColor=black)
 
 ### Tools & platforms
+My main tools for software development & desployment, design, and academic research.
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?&logo=github&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-B0CEFF?style=flat&logo=visualstudiocode&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-89DCEB?style=flat&logo=eclipseide&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-94E2D5?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-B4BEFE?style=flat&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-CBA6F7?style=flat&logo=github&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-F5C2E7?style=flat&logo=docker&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-B0CEFF?style=flat&logo=figma&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-89DCEB?style=flat&logo=github&logoColor=black)
+![Obsidian](https://img.shields.io/badge/Obsidian-94E2D5?style=flat&logo=obsidian&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-B4BEFE?style=flat&logo=latex&logoColor=black)
+
+### Others
+Tech I know and have extensively used in at least one project before, but not regularly.
+
+![C++](https://img.shields.io/badge/C%2B%2B-94E2D5?style=flat&logo=c%2B%2B&logoColor=black)
+![Go](https://img.shields.io/badge/Go-F5C2E7?logo=Go&logoColor=black)
+![C](https://img.shields.io/badge/C-B4BEFE?style=flat&logo=c&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-F5C2E7?style=flat&logo=gnu-bash&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-94E2D5?style=flat&logo=lua&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-CBA6F7?style=flat&logo=rabbitmq&logoColor=black)

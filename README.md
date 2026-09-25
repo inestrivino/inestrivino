@@ -1,17 +1,29 @@
-# Inés Triviño
+<div align="center">
 
-[![Website](https://img.shields.io/badge/Website-94E2D5?style=for-the-badge&logo=globe&logoColor=black)](https://inestrivino.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B0CEFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ines-trivino/)
+# Welcome! I'm Inés
+
+</div>
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:89B4FA,50:CBA6F7,100:F5C2E7&height=6&section=header)
 
 - Bachelor's Degree in **Software Engineering** (UCM) 
 - Student of the **Digital Humanities** Master's Degree (UCM)
 - Currently **looking for internship opportunities in software and cultural projects**.
+- Spanish (Native) | English (C2) | French (B2)
 
-Spanish (Native) | English (C2) | French (B2)
+<br>
+
+<div align="center">
+
+
+[![Website](https://img.shields.io/badge/Website-94E2D5?style=for-the-badge&logo=globe&logoColor=black)](https://inestrivino.github.io/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B0CEFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ines-trivino/)
+
+</div>
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:89B4FA,50:CBA6F7,100:F5C2E7&height=6&section=header)
+
+<div align="center">
 
 ### Main stack
 
@@ -53,3 +65,5 @@ Spanish (Native) | English (C2) | French (B2)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-89DCEB?style=flat&logo=github&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-94E2D5?style=flat&logo=obsidian&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-B4BEFE?style=flat&logo=latex&logoColor=black)
+
+</div>
